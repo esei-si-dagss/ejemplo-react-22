@@ -42,3 +42,10 @@ npm react-transition-group
 npm install
 npm start
 ```
+
+
+
+## Ajustes menores (9/12/2022)
+* Renombrado de clase en `components/incrementoClases.js`
+* Añadido botón _Ver_ en `components/users/userListado.js`
+* Añadido `components/users/userDetalle.js`

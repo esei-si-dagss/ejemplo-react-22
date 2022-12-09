@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-export default class Example extends React.Component {
+export default class IncrementoClases extends React.Component {
     constructor(props) {
         super(props);
         this.inicio = parseInt(this.props.inicio);
